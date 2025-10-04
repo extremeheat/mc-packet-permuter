@@ -1,0 +1,26 @@
+{
+  "name": "mc-packet-permuter",
+  "version": "1.0.0",
+  "description": "Generates encoded branch permutations of Minecraft packets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "minecraft",
+    "protocol",
+    "packets",
+    "prismarine",
+    "minecraft-data"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/extremeheat/mc-packet-permuter.git"
+  },
+  "dependencies": {
+    "minecraft-data": "^3.99.1",
+    "protodef": "^1.19.0"
+  }
+}
