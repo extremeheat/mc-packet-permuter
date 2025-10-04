@@ -1,0 +1,16 @@
+{
+  "name": "mc-packet-permuter",
+  "version": "1.0.0",
+  "description": "Generates encoded branch permutations of Minecraft packets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-data": "^3.99.1",
+    "protodef": "^1.19.0"
+  }
+}
